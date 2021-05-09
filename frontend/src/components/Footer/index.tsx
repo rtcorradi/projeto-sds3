@@ -1,4 +1,4 @@
-import imgDsDark from 'assets/img/ds-dark.svg';
+//import imgDsDark from 'assets/img/ds-dark.svg';
 
 const Footer = () => {
     return (
